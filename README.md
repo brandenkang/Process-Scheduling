@@ -1,3 +1,5 @@
+Scheduling Lab
+
 This is a lab exercise from NYU CSIC-UA 202 Operating Systems that emulates how different scheduling algorithms work in an OS. 
 The algorithms implemented are:
 
